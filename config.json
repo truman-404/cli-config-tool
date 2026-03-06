@@ -1,0 +1,6 @@
+{
+  "skipAll" : false,
+  "environment" : "staging",
+  "timeout" : 60,
+  "retryCount" : 3
+}
